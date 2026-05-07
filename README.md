@@ -77,7 +77,7 @@ Full audit trail documented in Appendix A of the manuscript.
 
 If you use or reference this work:
 
-> Cleary, S. M. (2026). *Early Dark Energy from a Discrete Causal Substrate: A Falsifiable rₛ = 142.8 Mpc Prediction from Causal Resonance Unification*. Zenodo. [DOI to be added upon Zenodo publication]
+> Cleary, S. M. (2026). *Early Dark Energy from a Discrete Causal Substrate: A Falsifiable rₛ = 142.8 Mpc Prediction from Causal Resonance Unification*. Zenodo. https://doi.org/10.5281/zenodo.19996261
 
 ---
 
