@@ -1,37 +1,33 @@
 cff-version: 1.2.0
 message: "If you use or reference this work, please cite it as below."
-type: article
-title: "Early Dark Energy from a Discrete Causal Substrate: A Falsifiable rs = 142.8 Mpc Prediction from Causal Resonance Unification"
 authors:
   - family-names: Cleary
     given-names: Shaun M.
     orcid: "https://orcid.org/0009-0002-4251-6139"
     affiliation: "The Cleary Group LLC, Chicago, IL"
+title: "Early Dark Energy from a Discrete Causal Substrate: A Falsifiable rs = 142.8 Mpc Prediction from Causal Resonance Unification"
 date-released: 2026-05-03
-year: 2026
-month: 5
-abstract: >
-  Causal Resonance Unification (CRU) is a theoretical framework in which
-  spacetime, gravity, and matter emerge from a directed acyclic graph (DAG)
-  of Planck-scale causal events. The CRU scalar field acts as early dark
-  energy near matter-radiation equality, yielding a falsifiable prediction
-  of a sound horizon rs = 142.8 Mpc — a 4.1% shift from the LCDM value —
-  testable against DESI Year-3 BAO data.
-keywords:
-  - early dark energy
-  - sound horizon
-  - Causal Resonance Unification
-  - DESI
-  - BAO
-  - cosmology
-  - Hubble tension
-  - directed acyclic graph
-  - causal set theory
 license: CC-BY-4.0
 repository-code: "https://github.com/Shaunc79/CRU-EDE-Prediction"
-url: "https://github.com/Shaunc79/CRU-EDE-Prediction"
 doi: "10.5281/zenodo.19996261"
-identifiers:
-  - type: doi
-    value: "10.5281/zenodo.19996261"
-    description: "Zenodo DOI for this preprint"
+type: software
+preferred-citation:
+  type: article
+  title: "Early Dark Energy from a Discrete Causal Substrate: A Falsifiable rs = 142.8 Mpc Prediction from Causal Resonance Unification"
+  authors:
+    - family-names: Cleary
+      given-names: Shaun M.
+      orcid: "https://orcid.org/0009-0002-4251-6139"
+      affiliation: "The Cleary Group LLC, Chicago, IL"
+  year: 2026
+  month: 5
+  url: "https://zenodo.org/records/19996261"
+  doi: "10.5281/zenodo.19996261"
+  keywords:
+    - early dark energy
+    - sound horizon
+    - Causal Resonance Unification
+    - DESI
+    - BAO
+    - cosmology
+    - Hubble tension
