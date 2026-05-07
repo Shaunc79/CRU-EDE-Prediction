@@ -5,6 +5,7 @@ title: "Early Dark Energy from a Discrete Causal Substrate: A Falsifiable rs = 1
 authors:
   - family-names: Cleary
     given-names: Shaun M.
+    orcid: "https://orcid.org/0009-0002-4251-6139"
     affiliation: "The Cleary Group LLC, Chicago, IL"
 date-released: 2026-05-03
 year: 2026
@@ -29,4 +30,8 @@ keywords:
 license: CC-BY-4.0
 repository-code: "https://github.com/Shaunc79/CRU-EDE-Prediction"
 url: "https://github.com/Shaunc79/CRU-EDE-Prediction"
-doi: "TBD — to be updated upon Zenodo publication"
+doi: "10.5281/zenodo.19996261"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.19996261"
+    description: "Zenodo DOI for this preprint"
